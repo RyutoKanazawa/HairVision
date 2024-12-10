@@ -1,0 +1,44 @@
+.hairstyle-simulation {
+    text-align: center;
+    padding: 50px 20px;
+    font-family: 'Italiana', serif;
+}
+
+.hairstyle-simulation h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.description-box {
+    margin: 0 auto;
+    max-width: 600px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+}
+
+.description-box p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #555;
+    margin: 0;
+}
+
+.try-button {
+    background-color: #000;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.try-button:hover {
+    background-color: #444;
+}

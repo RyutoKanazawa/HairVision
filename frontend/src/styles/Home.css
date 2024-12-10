@@ -1,0 +1,82 @@
+/* ホーム全体のスタイル */
+.home {
+    text-align: center;
+    font-family: 'Italiana', serif;
+    color: #333;
+    margin-top: 0;
+    padding: 0;
+}
+
+  /* 背景画像 */
+.home-header {
+    position: relative;
+    height: 400px;
+    margin: 0;
+}
+
+.home-background {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+  /* セクションタイトル */
+h2 {
+    margin-top: 20px;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+  /* 利用者向けのセクション */
+.benefits {
+    display: flex; /* 横並び配置 */
+    justify-content: center; /* 中央揃え */
+    gap: 50px; /* カード間のスペースを調整 */
+    margin-top: 30px;
+    align-items: stretch; /* 各要素の高さを揃える */
+    margin-bottom: 50px; /* フッターとの間に隙間を追加 */
+}
+
+.benefit {
+    text-align: center;
+    max-width: 400px;
+    flex: 1 1 300px; /* 各要素が均等にスペースを取る */
+    display: flex;
+    flex-direction: column; /* アイコンと囲いを縦に並べる */
+    align-items: center; /* 中央揃え */
+}
+
+  /* アイコンのスタイル */
+.icon {
+    font-size: 6rem !important; /* アイコンを適切なサイズに調整 */
+    color: #000;
+    margin-bottom: 20px;
+}
+
+  /* 囲いデザイン */
+.benefit-box {
+    border: 2px solid #ccc; /* 枠線を太めに設定 */
+    padding: 30px 20px; /* 内側の余白を調整 */
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 300px; /* 固定幅に変更 */
+    flex-grow: 1; /* 高さを他の要素に揃える */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* テキストを中央揃え */
+}
+
+  /* テキスト部分のスタイル */
+.benefit-box p {
+    font-size: 1.4rem; /* サイズを大きく変更 */
+    color: #333;
+    font-family: 'Italiana', serif;
+    line-height: 1.7; /* 行間を調整 */
+}
+
+  /* フッターとの間を確保 */
+.footer-spacing {
+    height: 50px; /* フッターとの間に固定スペースを追加 */
+}

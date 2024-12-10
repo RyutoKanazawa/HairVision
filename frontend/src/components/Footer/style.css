@@ -1,0 +1,36 @@
+/* Footer Container */
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 40px;
+    background-color: #f8f8f8;
+    border-top: 1px solid #ddd;
+  }
+  
+  /* Footer Logo */
+  .footer-content h1 {
+    font-family: 'Italiana', serif;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: black;
+  }
+  
+  /* Footer Business Links */
+  .business-links {
+    font-family: 'Italiana', serif;
+    font-size: 16px;
+  }
+  
+  .business-links a {
+    text-decoration: none;
+    color: black;
+    margin: 0 10px;
+    transition: color 0.3s ease;
+  }
+  
+  .business-links a:hover {
+    color: #D9D9D9;
+  }

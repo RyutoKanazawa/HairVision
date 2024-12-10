@@ -1,0 +1,76 @@
+.booking-selection {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.back-button {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+input[type="date"] {
+  font-size: 1rem;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+.time-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  list-style: none;
+  padding: 0;
+}
+
+.time-item button {
+  font-size: 1rem;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.time-item button:hover {
+  background-color: #e0f7fa; /* ホバー時の色 */
+  color: #007bff;
+}
+
+.time-item button.selected {
+  background-color: #007bff; /* 選択済みの色 */
+  color: white;
+}
+
+.time-item button.disabled {
+  background-color: #ddd;
+  cursor: not-allowed;
+}
+
+.confirm-button {
+  font-size: 1rem;
+  padding: 10px 20px;
+  margin-top: 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.confirm-button:hover {
+  background-color: #0056b3;
+}
+
+.error {
+  color: red;
+  font-size: 0.9rem;
+}

@@ -1,0 +1,76 @@
+/* Reset margin and padding for the body */
+body {
+  margin: 0; /* ボディ全体の余白を削除 */
+  padding: 0; /* 内側の余白も削除 */
+}
+
+/* Salon Header Container */
+.salon-header {
+  background-color: #fff;
+  padding: 30px 50px; /* ヘッダー全体の余白を調整 */
+  margin: 0; /* 外側の余白を削除 */
+  border-bottom: 1px solid #ddd; /* ヘッダーとボディの境界線 */
+  box-sizing: border-box; /* ボーダー込みのサイズ調整 */
+}
+
+/* Top Bar Styling */
+.salon-top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px; /* 下段との間隔 */
+}
+
+.salon-logo h1 {
+  font-family: 'Italiana', serif;
+  font-size: 60px; /* ロゴサイズ */
+  margin: 0;
+  color: black;
+  text-decoration: none; /* 下線を削除 */
+  border: none; /* ボーダーを削除 */
+  box-shadow: none; /* 影を削除 */
+}
+
+.salon-logo a {
+  text-decoration: none; /* リンクの下線を削除 */
+  color: black; /* リンクカラーを調整 */
+}
+
+/* Navigation Bar Styling */
+.salon-nav-bar {
+  display: flex;
+  justify-content: space-around; /* 横幅を最大限に活用 */
+  font-family: 'Italiana', serif;
+  font-size: 28px; /* フォントサイズ */
+  padding: 0; /* 内側の余白を完全に削除 */
+  margin: 0; /* 外側の余白を完全に削除 */
+}
+
+.salon-nav-bar a {
+  text-decoration: none; /* 下線を削除 */
+  color: black; /* ナビゲーションリンクの色 */
+  margin: 0 15px; /* 各リンクの間隔 */
+  transition: color 0.3s ease; /* ホバーアニメーション */
+}
+
+.salon-nav-bar a:hover {
+  color: #888; /* ホバー時の色変更 */
+}
+
+/* Logout Button Styling */
+.salon-logout-button {
+  font-family: 'Italiana', serif;
+  font-size: 20px; /* フォントサイズ */
+  background-color: transparent; /* 背景なし */
+  border: 1px solid #000; /* ボーダー */
+  border-radius: 5px; /* ボタンの角を丸く */
+  padding: 8px 15px; /* ボタンの余白 */
+  color: black;
+  cursor: pointer; /* ポインタを変更 */
+  transition: all 0.3s ease; /* ホバーアニメーション */
+}
+
+.salon-logout-button:hover {
+  background-color: black; /* ホバー時の背景色 */
+  color: white; /* ホバー時のテキスト色 */
+}

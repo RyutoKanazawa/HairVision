@@ -1,0 +1,27 @@
+.main {
+    padding: 20px;
+    font-family: 'Italiana', serif;
+}
+
+.home, .hair-salon, .hairstyle-simulation, .my-page {
+    text-align: center;
+}
+
+.benefits, .salon-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.benefit, .salon-card {
+    text-align: center;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}

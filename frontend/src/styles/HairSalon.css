@@ -1,0 +1,65 @@
+.hair-salon {
+    text-align: center;
+    margin: 20px;
+}
+
+.hair-salon h1 {
+    font-family: 'Italiana', serif;
+    margin-bottom: 30px;
+    font-size: 2rem;
+    color: #4A4A4A;
+}
+
+.salon-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 15px; 
+    justify-content: center;
+    padding: 20px;
+}
+
+.salon-card {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 100%;
+    max-width: 350px; 
+    height: 400px; 
+    margin: 0 auto;
+}
+
+.salon-card:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.salon-card img {
+    width: 100%;
+    height: 250px; 
+    object-fit: cover; 
+    border-bottom: 1px solid #ddd;
+}
+
+.salon-card h2 {
+    font-family: 'Italiana', serif;
+    font-size: 1.5rem;
+    color: #5A5A5A;
+    margin: 10px 0;
+}
+
+.salon-card p {
+    font-family: 'Arial', sans-serif;
+    font-size: 1rem;
+    color: #7A7A7A;
+    margin-bottom: 10px;
+}
+
+.error-message {
+    color: red;
+    font-size: 1.2rem;
+    margin: 20px;
+}
