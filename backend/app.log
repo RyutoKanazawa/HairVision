@@ -1,0 +1,447 @@
+2024-12-02 14:04:28,259 - __main__ - DEBUG - Model loaded successfully.
+2024-12-02 14:04:28,264 - werkzeug - WARNING -  * Debugger is active!
+2024-12-02 14:04:28,273 - werkzeug - INFO -  * Debugger PIN: 106-771-664
+2024-12-02 14:04:34,370 - __main__ - DEBUG - Model loaded successfully.
+2024-12-02 14:04:34,375 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-12-02 14:04:34,375 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 14:04:34,378 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2024-12-02 14:04:36,214 - __main__ - DEBUG - Model loaded successfully.
+2024-12-02 14:04:36,218 - werkzeug - WARNING -  * Debugger is active!
+2024-12-02 14:04:36,225 - werkzeug - INFO -  * Debugger PIN: 106-771-664
+2024-12-02 14:06:55,678 - fsevents - DEBUG - NativeEvent(path="/Users/ryutokanazawa/Desktop/hairvision/backend/app/my_app.py", inode=7618588, flags=11400, id=112842323): is_file, is_inode_meta_mod, is_modified
+2024-12-02 14:06:55,678 - fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/ryutokanazawa/Desktop/hairvision/backend/app/my_app.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2024-12-02 14:06:55,678 - werkzeug - INFO -  * Detected change in '/Users/ryutokanazawa/Desktop/hairvision/backend/app/my_app.py', reloading
+2024-12-02 14:06:56,319 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2024-12-02 14:06:58,890 - __main__ - DEBUG - Model loaded successfully.
+2024-12-02 14:06:58,896 - werkzeug - WARNING -  * Debugger is active!
+2024-12-02 14:06:58,905 - werkzeug - INFO -  * Debugger PIN: 106-771-664
+2024-12-02 14:07:05,707 - __main__ - DEBUG - Model loaded successfully.
+2024-12-02 14:07:05,712 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-12-02 14:07:05,712 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 14:07:05,716 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2024-12-02 14:07:07,549 - __main__ - DEBUG - Model loaded successfully.
+2024-12-02 14:07:07,552 - werkzeug - WARNING -  * Debugger is active!
+2024-12-02 14:07:07,559 - werkzeug - INFO -  * Debugger PIN: 106-771-664
+2024-12-02 14:07:50,651 - fsevents - DEBUG - NativeEvent(path="/Users/ryutokanazawa/Desktop/hairvision/backend/app/my_app.py", inode=7618588, flags=11400, id=112844266): is_file, is_inode_meta_mod, is_modified
+2024-12-02 14:07:50,651 - fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/ryutokanazawa/Desktop/hairvision/backend/app/my_app.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2024-12-02 14:07:50,653 - werkzeug - INFO -  * Detected change in '/Users/ryutokanazawa/Desktop/hairvision/backend/app/my_app.py', reloading
+2024-12-02 14:07:51,359 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2024-12-02 14:07:54,001 - __main__ - DEBUG - Model loaded successfully.
+2024-12-02 14:07:54,006 - werkzeug - WARNING -  * Debugger is active!
+2024-12-02 14:07:54,017 - werkzeug - INFO -  * Debugger PIN: 106-771-664
+2024-12-02 14:08:03,198 - fsevents - DEBUG - NativeEvent(path="/Users/ryutokanazawa/Desktop/hairvision/backend/app/my_app.py", inode=7618588, flags=11400, id=112845007): is_file, is_inode_meta_mod, is_modified
+2024-12-02 14:08:03,198 - fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/ryutokanazawa/Desktop/hairvision/backend/app/my_app.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2024-12-02 14:08:03,202 - werkzeug - INFO -  * Detected change in '/Users/ryutokanazawa/Desktop/hairvision/backend/app/my_app.py', reloading
+2024-12-02 14:08:04,492 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2024-12-02 14:08:06,485 - __main__ - DEBUG - Model loaded successfully.
+2024-12-02 14:08:06,489 - werkzeug - WARNING -  * Debugger is active!
+2024-12-02 14:08:06,497 - werkzeug - INFO -  * Debugger PIN: 106-771-664
+2024-12-02 14:08:10,961 - __main__ - DEBUG - Model loaded successfully.
+2024-12-02 14:08:10,965 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-12-02 14:08:10,965 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 14:08:10,969 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2024-12-02 14:08:12,897 - __main__ - DEBUG - Model loaded successfully.
+2024-12-02 14:08:12,901 - werkzeug - WARNING -  * Debugger is active!
+2024-12-02 14:08:12,967 - werkzeug - INFO -  * Debugger PIN: 106-771-664
+2024-12-02 14:08:52,022 - fsevents - DEBUG - NativeEvent(path="/Users/ryutokanazawa/Desktop/hairvision/backend/app/my_app.py", inode=7618588, flags=11400, id=112846431): is_file, is_inode_meta_mod, is_modified
+2024-12-02 14:08:52,022 - fsevents - DEBUG - queue_event FileModifiedEvent(src_path='/Users/ryutokanazawa/Desktop/hairvision/backend/app/my_app.py', dest_path='', event_type='modified', is_directory=False, is_synthetic=False)
+2024-12-02 14:08:52,024 - werkzeug - INFO -  * Detected change in '/Users/ryutokanazawa/Desktop/hairvision/backend/app/my_app.py', reloading
+2024-12-02 14:08:52,778 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2024-12-02 14:08:54,845 - __main__ - DEBUG - Model loaded successfully.
+2024-12-02 14:08:54,848 - werkzeug - WARNING -  * Debugger is active!
+2024-12-02 14:08:54,859 - werkzeug - INFO -  * Debugger PIN: 106-771-664
+2024-12-02 14:09:01,059 - __main__ - DEBUG - Model loaded successfully.
+2024-12-02 14:09:01,064 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-12-02 14:09:01,064 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 14:12:25,318 - __main__ - DEBUG - Model loaded successfully.
+2024-12-02 14:12:25,325 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-12-02 14:12:25,325 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 14:14:04,576 - __main__ - DEBUG - Model loaded successfully.
+2024-12-02 14:14:04,580 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-12-02 14:14:04,580 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 14:15:06,704 - __main__ - DEBUG - Processing male upload
+2024-12-02 14:15:06,704 - __main__ - DEBUG - Received request to upload for gender: male
+2024-12-02 14:15:06,707 - __main__ - DEBUG - File received: shap_1.jpg
+2024-12-02 14:15:06,708 - __main__ - DEBUG - File saved to: ./uploads/shap_1.jpg
+2024-12-02 14:15:06,723 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-12-02 14:15:06,724 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-12-02 14:15:06,724 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-12-02 14:15:06,725 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-12-02 14:15:06,725 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-12-02 14:15:06,726 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-12-02 14:15:06,730 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-12-02 14:15:06,731 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-12-02 14:15:06,731 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-12-02 14:15:06,732 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-12-02 14:15:06,732 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-12-02 14:15:06,732 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-12-02 14:15:06,733 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-12-02 14:15:06,733 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-12-02 14:15:06,733 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-12-02 14:15:06,733 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-12-02 14:15:06,734 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-12-02 14:15:06,735 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-12-02 14:15:06,735 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-12-02 14:15:06,736 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-12-02 14:15:06,736 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-12-02 14:15:06,736 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-12-02 14:15:06,736 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-12-02 14:15:06,736 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-12-02 14:15:06,737 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-12-02 14:15:06,737 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-12-02 14:15:06,737 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-12-02 14:15:06,737 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-12-02 14:15:06,738 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-12-02 14:15:06,739 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-12-02 14:15:06,739 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-12-02 14:15:06,740 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-12-02 14:15:06,740 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-12-02 14:15:06,743 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-12-02 14:15:06,743 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-12-02 14:15:06,743 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-12-02 14:15:06,744 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-12-02 14:15:06,744 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-12-02 14:15:06,744 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-12-02 14:15:06,744 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-12-02 14:15:06,745 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-12-02 14:15:06,745 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-12-02 14:15:06,745 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-12-02 14:15:06,745 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-12-02 14:15:06,750 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-12-02 14:15:06,750 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-12-02 14:15:06,751 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-12-02 14:15:06,751 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-12-02 14:15:06,758 - __main__ - DEBUG - Image processed for model prediction: (1, 50, 50, 3)
+2024-12-02 14:15:06,849 - __main__ - DEBUG - Model prediction output: [[0.6210382  0.37896183]]
+2024-12-02 14:15:06,849 - __main__ - DEBUG - Predicted face type: marugao
+2024-12-02 14:15:06,850 - __main__ - DEBUG - File moved to processed folder: ./static/processed/shap_1.jpg
+2024-12-02 14:15:06,850 - __main__ - DEBUG - Available recommendations: ['mm3.jpg', 'mm2.jpg', 'mm1.jpg', 'mm5.jpg', 'mm4.jpg', 'mm6.jpg', 'mm7.jpg', 'mm9.jpg', 'mm8.jpg', 'mm10.jpg']
+2024-12-02 14:15:06,850 - __main__ - DEBUG - Selected recommended image: /recommendations/male/marugao/mm1.jpg
+2024-12-02 14:15:06,850 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:15:06] "POST /uploads_py_male HTTP/1.1" 200 -
+2024-12-02 14:16:39,273 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:16:39] "[33mGET /recommendations/male/marugao/mm1.jpg HTTP/1.1[0m" 404 -
+2024-12-02 14:16:48,065 - __main__ - DEBUG - Processing male upload
+2024-12-02 14:16:48,065 - __main__ - DEBUG - Received request to upload for gender: male
+2024-12-02 14:16:48,067 - __main__ - DEBUG - File received: round_1.jpg
+2024-12-02 14:16:48,068 - __main__ - DEBUG - File saved to: ./uploads/round_1.jpg
+2024-12-02 14:16:48,086 - __main__ - DEBUG - Image processed for model prediction: (1, 50, 50, 3)
+2024-12-02 14:16:48,134 - __main__ - DEBUG - Model prediction output: [[0.70989764 0.29010233]]
+2024-12-02 14:16:48,134 - __main__ - DEBUG - Predicted face type: marugao
+2024-12-02 14:16:48,134 - __main__ - DEBUG - File moved to processed folder: ./static/processed/round_1.jpg
+2024-12-02 14:16:48,134 - __main__ - DEBUG - Available recommendations: ['mm3.jpg', 'mm2.jpg', 'mm1.jpg', 'mm5.jpg', 'mm4.jpg', 'mm6.jpg', 'mm7.jpg', 'mm9.jpg', 'mm8.jpg', 'mm10.jpg']
+2024-12-02 14:16:48,134 - __main__ - DEBUG - Selected recommended image: /recommendations/male/marugao/mm6.jpg
+2024-12-02 14:16:48,134 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:16:48] "POST /uploads_py_male HTTP/1.1" 200 -
+2024-12-02 14:16:48,143 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:16:48] "[33mGET /recommendations/male/marugao/mm6.jpg HTTP/1.1[0m" 404 -
+2024-12-02 14:19:55,597 - __main__ - DEBUG - Processing male upload
+2024-12-02 14:19:55,597 - __main__ - DEBUG - Received request to upload for gender: male
+2024-12-02 14:19:55,599 - __main__ - DEBUG - File received: round_1.jpg
+2024-12-02 14:19:55,601 - __main__ - DEBUG - File saved to: ./uploads/round_1.jpg
+2024-12-02 14:19:55,618 - __main__ - DEBUG - Image processed for model prediction: (1, 50, 50, 3)
+2024-12-02 14:19:55,664 - __main__ - DEBUG - Model prediction output: [[0.70989764 0.29010233]]
+2024-12-02 14:19:55,664 - __main__ - DEBUG - Predicted face type: marugao
+2024-12-02 14:19:55,664 - __main__ - DEBUG - File moved to processed folder: ./static/processed/round_1.jpg
+2024-12-02 14:19:55,664 - __main__ - DEBUG - Available recommendations: ['mm3.jpg', 'mm2.jpg', 'mm1.jpg', 'mm5.jpg', 'mm4.jpg', 'mm6.jpg', 'mm7.jpg', 'mm9.jpg', 'mm8.jpg', 'mm10.jpg']
+2024-12-02 14:19:55,664 - __main__ - DEBUG - Selected recommended image: /recommendations/male/marugao/mm8.jpg
+2024-12-02 14:19:55,665 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:19:55] "POST /uploads_py_male HTTP/1.1" 200 -
+2024-12-02 14:19:55,671 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:19:55] "[33mGET /recommendations/male/marugao/mm8.jpg HTTP/1.1[0m" 404 -
+2024-12-02 14:21:37,957 - __main__ - DEBUG - Model loaded successfully.
+2024-12-02 14:21:37,964 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-12-02 14:21:37,964 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 14:21:49,011 - __main__ - DEBUG - Processing male upload
+2024-12-02 14:21:49,011 - __main__ - DEBUG - Received request to upload for gender: male
+2024-12-02 14:21:49,013 - __main__ - DEBUG - File received: shap_1.jpg
+2024-12-02 14:21:49,014 - __main__ - DEBUG - File saved to: ./uploads/shap_1.jpg
+2024-12-02 14:21:49,028 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-12-02 14:21:49,029 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-12-02 14:21:49,029 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-12-02 14:21:49,029 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-12-02 14:21:49,030 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-12-02 14:21:49,031 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-12-02 14:21:49,035 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-12-02 14:21:49,035 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-12-02 14:21:49,036 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-12-02 14:21:49,036 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-12-02 14:21:49,036 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-12-02 14:21:49,036 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-12-02 14:21:49,037 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-12-02 14:21:49,037 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-12-02 14:21:49,037 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-12-02 14:21:49,037 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-12-02 14:21:49,037 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-12-02 14:21:49,039 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-12-02 14:21:49,039 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-12-02 14:21:49,039 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-12-02 14:21:49,040 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-12-02 14:21:49,040 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-12-02 14:21:49,040 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-12-02 14:21:49,040 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-12-02 14:21:49,040 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-12-02 14:21:49,041 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-12-02 14:21:49,041 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-12-02 14:21:49,041 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-12-02 14:21:49,042 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-12-02 14:21:49,043 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-12-02 14:21:49,043 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-12-02 14:21:49,043 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-12-02 14:21:49,043 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-12-02 14:21:49,047 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-12-02 14:21:49,047 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-12-02 14:21:49,047 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-12-02 14:21:49,047 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-12-02 14:21:49,047 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-12-02 14:21:49,047 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-12-02 14:21:49,048 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-12-02 14:21:49,048 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-12-02 14:21:49,048 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-12-02 14:21:49,048 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-12-02 14:21:49,048 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-12-02 14:21:49,051 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-12-02 14:21:49,052 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-12-02 14:21:49,052 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-12-02 14:21:49,052 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-12-02 14:21:49,059 - __main__ - DEBUG - Image processed for model prediction: (1, 50, 50, 3)
+2024-12-02 14:21:49,153 - __main__ - DEBUG - Model prediction output: [[0.6210382  0.37896183]]
+2024-12-02 14:21:49,153 - __main__ - DEBUG - Predicted face type: marugao
+2024-12-02 14:21:49,153 - __main__ - DEBUG - File moved to processed folder: ./static/processed/shap_1.jpg
+2024-12-02 14:21:49,153 - __main__ - DEBUG - Available recommendations: ['mm3.jpg', 'mm2.jpg', 'mm1.jpg', 'mm5.jpg', 'mm4.jpg', 'mm6.jpg', 'mm7.jpg', 'mm9.jpg', 'mm8.jpg', 'mm10.jpg']
+2024-12-02 14:21:49,153 - __main__ - DEBUG - Selected recommended image: /recommendations/male/marugao/mm2.jpg
+2024-12-02 14:21:49,153 - __main__ - DEBUG - Response: <Response 164 bytes [200 OK]>
+2024-12-02 14:21:49,154 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:21:49] "POST /uploads_py_male HTTP/1.1" 200 -
+2024-12-02 14:21:49,160 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:21:49] "[33mGET /recommendations/male/marugao/mm2.jpg HTTP/1.1[0m" 404 -
+2024-12-02 14:22:57,323 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:22:57] "[33mGET /recommendations/male/marugao/mm2.jpg HTTP/1.1[0m" 404 -
+2024-12-02 14:22:57,347 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:22:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-02 14:23:28,483 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:23:28] "[33mGET /recommendations/male/marugao/mm2.jpg HTTP/1.1[0m" 404 -
+2024-12-02 14:25:39,022 - __main__ - DEBUG - Processing male upload
+2024-12-02 14:25:39,023 - __main__ - DEBUG - Received request to upload for gender: male
+2024-12-02 14:25:39,026 - __main__ - DEBUG - File received: shap_2.jpg
+2024-12-02 14:25:39,027 - __main__ - DEBUG - File saved to: ./uploads/shap_2.jpg
+2024-12-02 14:25:39,041 - __main__ - DEBUG - Image processed for model prediction: (1, 50, 50, 3)
+2024-12-02 14:25:39,090 - __main__ - DEBUG - Model prediction output: [[0.80174613 0.19825386]]
+2024-12-02 14:25:39,090 - __main__ - DEBUG - Predicted face type: marugao
+2024-12-02 14:25:39,091 - __main__ - DEBUG - File moved to processed folder: ./static/processed/shap_2.jpg
+2024-12-02 14:25:39,091 - __main__ - DEBUG - Available recommendations: ['mm3.jpg', 'mm2.jpg', 'mm1.jpg', 'mm5.jpg', 'mm4.jpg', 'mm6.jpg', 'mm7.jpg', 'mm9.jpg', 'mm8.jpg', 'mm10.jpg']
+2024-12-02 14:25:39,092 - __main__ - DEBUG - Selected recommended image: /recommendations/male/marugao/mm8.jpg
+2024-12-02 14:25:39,092 - __main__ - DEBUG - Response: <Response 164 bytes [200 OK]>
+2024-12-02 14:25:39,092 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:25:39] "POST /uploads_py_male HTTP/1.1" 200 -
+2024-12-02 14:25:39,101 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:25:39] "[33mGET /recommendations/male/marugao/mm8.jpg HTTP/1.1[0m" 404 -
+2024-12-02 14:26:42,708 - __main__ - DEBUG - Processing male upload
+2024-12-02 14:26:42,709 - __main__ - DEBUG - Received request to upload for gender: male
+2024-12-02 14:26:42,711 - __main__ - DEBUG - File received: shap_2.jpg
+2024-12-02 14:26:42,712 - __main__ - DEBUG - File saved to: ./uploads/shap_2.jpg
+2024-12-02 14:26:42,725 - __main__ - DEBUG - Image processed for model prediction: (1, 50, 50, 3)
+2024-12-02 14:26:42,775 - __main__ - DEBUG - Model prediction output: [[0.80174613 0.19825386]]
+2024-12-02 14:26:42,775 - __main__ - DEBUG - Predicted face type: marugao
+2024-12-02 14:26:42,775 - __main__ - DEBUG - File moved to processed folder: ./static/processed/shap_2.jpg
+2024-12-02 14:26:42,775 - __main__ - DEBUG - Available recommendations: ['mm3.jpg', 'mm2.jpg', 'mm1.jpg', 'mm5.jpg', 'mm4.jpg', 'mm6.jpg', 'mm7.jpg', 'mm9.jpg', 'mm8.jpg', 'mm10.jpg']
+2024-12-02 14:26:42,775 - __main__ - DEBUG - Selected recommended image: /recommendations/male/marugao/mm3.jpg
+2024-12-02 14:26:42,775 - __main__ - DEBUG - Response: <Response 164 bytes [200 OK]>
+2024-12-02 14:26:42,775 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:26:42] "POST /uploads_py_male HTTP/1.1" 200 -
+2024-12-02 14:26:42,785 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:26:42] "[33mGET /recommendations/male/marugao/mm3.jpg HTTP/1.1[0m" 404 -
+2024-12-02 14:28:24,468 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:28:24] "[33mGET / HTTP/1.1[0m" 404 -
+2024-12-02 14:30:45,926 - __main__ - DEBUG - Model loaded successfully.
+2024-12-02 14:30:45,933 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-12-02 14:30:45,933 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 14:33:02,196 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:33:02] "[33mGET /recommendations/male/marugao/mm3.jpg HTTP/1.1[0m" 404 -
+2024-12-02 14:33:35,238 - __main__ - DEBUG - Processing male upload
+2024-12-02 14:33:35,239 - __main__ - DEBUG - Received request to upload for gender: male
+2024-12-02 14:33:35,241 - __main__ - DEBUG - File received: shap_2.jpg
+2024-12-02 14:33:35,241 - __main__ - DEBUG - File saved to: ./uploads/shap_2.jpg
+2024-12-02 14:33:35,256 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-12-02 14:33:35,257 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-12-02 14:33:35,257 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-12-02 14:33:35,257 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-12-02 14:33:35,258 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-12-02 14:33:35,259 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-12-02 14:33:35,262 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-12-02 14:33:35,263 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-12-02 14:33:35,264 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-12-02 14:33:35,264 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-12-02 14:33:35,265 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-12-02 14:33:35,265 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-12-02 14:33:35,265 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-12-02 14:33:35,266 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-12-02 14:33:35,266 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-12-02 14:33:35,266 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-12-02 14:33:35,266 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-12-02 14:33:35,268 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-12-02 14:33:35,268 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-12-02 14:33:35,268 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-12-02 14:33:35,269 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-12-02 14:33:35,269 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-12-02 14:33:35,269 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-12-02 14:33:35,269 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-12-02 14:33:35,269 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-12-02 14:33:35,270 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-12-02 14:33:35,270 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-12-02 14:33:35,270 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-12-02 14:33:35,271 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-12-02 14:33:35,271 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-12-02 14:33:35,272 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-12-02 14:33:35,272 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-12-02 14:33:35,272 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-12-02 14:33:35,275 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-12-02 14:33:35,276 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-12-02 14:33:35,276 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-12-02 14:33:35,276 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-12-02 14:33:35,276 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-12-02 14:33:35,276 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-12-02 14:33:35,276 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-12-02 14:33:35,277 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-12-02 14:33:35,277 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-12-02 14:33:35,277 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-12-02 14:33:35,277 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-12-02 14:33:35,282 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-12-02 14:33:35,283 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-12-02 14:33:35,283 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-12-02 14:33:35,283 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-12-02 14:33:35,291 - __main__ - DEBUG - Image processed for model prediction: (1, 50, 50, 3)
+2024-12-02 14:33:35,390 - __main__ - DEBUG - Model prediction output: [[0.80174613 0.19825386]]
+2024-12-02 14:33:35,390 - __main__ - DEBUG - Predicted face type: marugao
+2024-12-02 14:33:35,391 - __main__ - DEBUG - File moved to processed folder: ./static/processed/shap_2.jpg
+2024-12-02 14:33:35,391 - __main__ - DEBUG - Available recommendations: ['mm3.jpg', 'mm2.jpg', 'mm1.jpg', 'mm5.jpg', 'mm4.jpg', 'mm6.jpg', 'mm7.jpg', 'mm9.jpg', 'mm8.jpg', 'mm10.jpg']
+2024-12-02 14:33:35,392 - __main__ - DEBUG - Selected recommended image: /recommendations/male/marugao/mm3.jpg
+2024-12-02 14:33:35,392 - __main__ - DEBUG - Response: <Response 164 bytes [200 OK]>
+2024-12-02 14:33:35,392 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:33:35] "POST /uploads_py_male HTTP/1.1" 200 -
+2024-12-02 14:33:35,400 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:33:35] "[33mGET /recommendations/male/marugao/mm3.jpg HTTP/1.1[0m" 404 -
+2024-12-02 14:36:07,655 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:36:07] "[33mGET /static/recommendations/male/marugao/mm3.jpg HTTP/1.1[0m" 404 -
+2024-12-02 14:37:12,612 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:37:12] "[33mGET /static/recommendations/male/marugao/mm3.jpg HTTP/1.1[0m" 404 -
+2024-12-02 14:38:32,659 - __main__ - DEBUG - Model loaded successfully.
+2024-12-02 14:38:32,665 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2024-12-02 14:38:32,665 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 14:38:43,257 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:38:43] "GET /static/recommendations/male/marugao/mm3.jpg HTTP/1.1" 200 -
+2024-12-02 14:39:09,177 - __main__ - DEBUG - Processing male upload
+2024-12-02 14:39:09,177 - __main__ - DEBUG - Received request to upload for gender: male
+2024-12-02 14:39:09,179 - __main__ - DEBUG - File received: shap_2.jpg
+2024-12-02 14:39:09,180 - __main__ - DEBUG - File saved to: ./uploads/shap_2.jpg
+2024-12-02 14:39:09,194 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-12-02 14:39:09,195 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-12-02 14:39:09,195 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-12-02 14:39:09,195 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-12-02 14:39:09,196 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-12-02 14:39:09,196 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-12-02 14:39:09,200 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-12-02 14:39:09,200 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-12-02 14:39:09,201 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-12-02 14:39:09,201 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-12-02 14:39:09,202 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-12-02 14:39:09,202 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-12-02 14:39:09,202 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-12-02 14:39:09,202 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-12-02 14:39:09,202 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-12-02 14:39:09,202 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-12-02 14:39:09,203 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-12-02 14:39:09,203 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-12-02 14:39:09,204 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-12-02 14:39:09,204 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-12-02 14:39:09,205 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-12-02 14:39:09,205 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-12-02 14:39:09,206 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-12-02 14:39:09,206 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-12-02 14:39:09,206 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-12-02 14:39:09,206 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-12-02 14:39:09,206 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-12-02 14:39:09,206 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-12-02 14:39:09,208 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-12-02 14:39:09,209 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-12-02 14:39:09,209 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-12-02 14:39:09,210 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-12-02 14:39:09,210 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-12-02 14:39:09,212 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-12-02 14:39:09,213 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-12-02 14:39:09,213 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-12-02 14:39:09,213 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-12-02 14:39:09,213 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-12-02 14:39:09,213 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-12-02 14:39:09,213 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-12-02 14:39:09,213 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-12-02 14:39:09,213 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-12-02 14:39:09,214 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-12-02 14:39:09,214 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-12-02 14:39:09,216 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-12-02 14:39:09,217 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-12-02 14:39:09,217 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-12-02 14:39:09,217 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-12-02 14:39:09,225 - __main__ - DEBUG - Image processed for model prediction: (1, 50, 50, 3)
+2024-12-02 14:39:09,328 - __main__ - DEBUG - Model prediction output: [[0.80174613 0.19825386]]
+2024-12-02 14:39:09,328 - __main__ - DEBUG - Predicted face type: marugao
+2024-12-02 14:39:09,328 - __main__ - DEBUG - File moved to processed folder: ./static/processed/shap_2.jpg
+2024-12-02 14:39:09,329 - __main__ - DEBUG - Available recommendations: ['mm3.jpg', 'mm2.jpg', 'mm1.jpg', 'mm5.jpg', 'mm4.jpg', 'mm6.jpg', 'mm7.jpg', 'mm9.jpg', 'mm8.jpg', 'mm10.jpg']
+2024-12-02 14:39:09,329 - __main__ - DEBUG - Selected recommended image: /static/recommendations/male/marugao/mm6.jpg
+2024-12-02 14:39:09,329 - __main__ - DEBUG - Response: <Response 171 bytes [200 OK]>
+2024-12-02 14:39:09,329 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:39:09] "POST /uploads_py_male HTTP/1.1" 200 -
+2024-12-02 14:39:09,338 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:39:09] "GET /static/recommendations/male/marugao/mm6.jpg HTTP/1.1" 200 -
+2024-12-02 14:39:20,446 - __main__ - DEBUG - Processing female upload
+2024-12-02 14:39:20,446 - __main__ - DEBUG - Received request to upload for gender: female
+2024-12-02 14:39:20,448 - __main__ - DEBUG - File received: hairstyle1.png
+2024-12-02 14:39:20,450 - __main__ - DEBUG - File saved to: ./uploads/hairstyle1.png
+2024-12-02 14:39:20,450 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-12-02 14:39:20,450 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2024-12-02 14:39:20,450 - PIL.PngImagePlugin - DEBUG - STREAM b'eXIf' 54 120
+2024-12-02 14:39:20,450 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 186 9
+2024-12-02 14:39:20,450 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 207 16384
+2024-12-02 14:39:20,459 - __main__ - DEBUG - Image processed for model prediction: (1, 50, 50, 3)
+2024-12-02 14:39:20,512 - __main__ - DEBUG - Model prediction output: [[0.78230506 0.21769495]]
+2024-12-02 14:39:20,512 - __main__ - DEBUG - Predicted face type: marugao
+2024-12-02 14:39:20,513 - __main__ - DEBUG - File moved to processed folder: ./static/processed/hairstyle1.png
+2024-12-02 14:39:20,514 - __main__ - DEBUG - Available recommendations: ['m3.jpg', 'm2.jpg', 'm1.jpg', 'm5.jpg', 'm4.jpg', 'm6.jpg', 'm10.jpg', 'm7.jpg', 'm9.jpg', 'm8.jpg']
+2024-12-02 14:39:20,514 - __main__ - DEBUG - Selected recommended image: /static/recommendations/female/marugao/m10.jpg
+2024-12-02 14:39:20,514 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:39:20] "POST /uploads_py_female HTTP/1.1" 200 -
+2024-12-02 14:39:20,523 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:39:20] "GET /static/recommendations/female/marugao/m10.jpg HTTP/1.1" 200 -
+2024-12-02 14:39:21,300 - __main__ - DEBUG - Processing female upload
+2024-12-02 14:39:21,301 - __main__ - DEBUG - Received request to upload for gender: female
+2024-12-02 14:39:21,303 - __main__ - DEBUG - File received: hairstyle1.png
+2024-12-02 14:39:21,305 - __main__ - DEBUG - File saved to: ./uploads/hairstyle1.png
+2024-12-02 14:39:21,306 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-12-02 14:39:21,306 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2024-12-02 14:39:21,307 - PIL.PngImagePlugin - DEBUG - STREAM b'eXIf' 54 120
+2024-12-02 14:39:21,307 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 186 9
+2024-12-02 14:39:21,307 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 207 16384
+2024-12-02 14:39:21,313 - __main__ - DEBUG - Image processed for model prediction: (1, 50, 50, 3)
+2024-12-02 14:39:21,365 - __main__ - DEBUG - Model prediction output: [[0.78230506 0.21769495]]
+2024-12-02 14:39:21,365 - __main__ - DEBUG - Predicted face type: marugao
+2024-12-02 14:39:21,365 - __main__ - DEBUG - File moved to processed folder: ./static/processed/hairstyle1.png
+2024-12-02 14:39:21,365 - __main__ - DEBUG - Available recommendations: ['m3.jpg', 'm2.jpg', 'm1.jpg', 'm5.jpg', 'm4.jpg', 'm6.jpg', 'm10.jpg', 'm7.jpg', 'm9.jpg', 'm8.jpg']
+2024-12-02 14:39:21,366 - __main__ - DEBUG - Selected recommended image: /static/recommendations/female/marugao/m3.jpg
+2024-12-02 14:39:21,366 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:39:21] "POST /uploads_py_female HTTP/1.1" 200 -
+2024-12-02 14:39:21,374 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:39:21] "GET /static/recommendations/female/marugao/m3.jpg HTTP/1.1" 200 -
+2024-12-02 14:39:22,035 - __main__ - DEBUG - Processing female upload
+2024-12-02 14:39:22,036 - __main__ - DEBUG - Received request to upload for gender: female
+2024-12-02 14:39:22,038 - __main__ - DEBUG - File received: hairstyle1.png
+2024-12-02 14:39:22,040 - __main__ - DEBUG - File saved to: ./uploads/hairstyle1.png
+2024-12-02 14:39:22,040 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-12-02 14:39:22,040 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2024-12-02 14:39:22,040 - PIL.PngImagePlugin - DEBUG - STREAM b'eXIf' 54 120
+2024-12-02 14:39:22,041 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 186 9
+2024-12-02 14:39:22,041 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 207 16384
+2024-12-02 14:39:22,048 - __main__ - DEBUG - Image processed for model prediction: (1, 50, 50, 3)
+2024-12-02 14:39:22,103 - __main__ - DEBUG - Model prediction output: [[0.78230506 0.21769495]]
+2024-12-02 14:39:22,103 - __main__ - DEBUG - Predicted face type: marugao
+2024-12-02 14:39:22,103 - __main__ - DEBUG - File moved to processed folder: ./static/processed/hairstyle1.png
+2024-12-02 14:39:22,104 - __main__ - DEBUG - Available recommendations: ['m3.jpg', 'm2.jpg', 'm1.jpg', 'm5.jpg', 'm4.jpg', 'm6.jpg', 'm10.jpg', 'm7.jpg', 'm9.jpg', 'm8.jpg']
+2024-12-02 14:39:22,104 - __main__ - DEBUG - Selected recommended image: /static/recommendations/female/marugao/m3.jpg
+2024-12-02 14:39:22,104 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:39:22] "POST /uploads_py_female HTTP/1.1" 200 -
+2024-12-02 14:39:22,896 - __main__ - DEBUG - Processing female upload
+2024-12-02 14:39:22,896 - __main__ - DEBUG - Received request to upload for gender: female
+2024-12-02 14:39:22,898 - __main__ - DEBUG - File received: hairstyle1.png
+2024-12-02 14:39:22,899 - __main__ - DEBUG - File saved to: ./uploads/hairstyle1.png
+2024-12-02 14:39:22,900 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-12-02 14:39:22,900 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2024-12-02 14:39:22,900 - PIL.PngImagePlugin - DEBUG - STREAM b'eXIf' 54 120
+2024-12-02 14:39:22,900 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 186 9
+2024-12-02 14:39:22,900 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 207 16384
+2024-12-02 14:39:22,907 - __main__ - DEBUG - Image processed for model prediction: (1, 50, 50, 3)
+2024-12-02 14:39:22,963 - __main__ - DEBUG - Model prediction output: [[0.78230506 0.21769495]]
+2024-12-02 14:39:22,963 - __main__ - DEBUG - Predicted face type: marugao
+2024-12-02 14:39:22,963 - __main__ - DEBUG - File moved to processed folder: ./static/processed/hairstyle1.png
+2024-12-02 14:39:22,963 - __main__ - DEBUG - Available recommendations: ['m3.jpg', 'm2.jpg', 'm1.jpg', 'm5.jpg', 'm4.jpg', 'm6.jpg', 'm10.jpg', 'm7.jpg', 'm9.jpg', 'm8.jpg']
+2024-12-02 14:39:22,963 - __main__ - DEBUG - Selected recommended image: /static/recommendations/female/marugao/m2.jpg
+2024-12-02 14:39:22,963 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:39:22] "POST /uploads_py_female HTTP/1.1" 200 -
+2024-12-02 14:39:22,973 - werkzeug - INFO - 127.0.0.1 - - [02/Dec/2024 14:39:22] "GET /static/recommendations/female/marugao/m2.jpg HTTP/1.1" 200 -
